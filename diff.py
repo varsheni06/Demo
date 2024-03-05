@@ -1,4 +1,5 @@
 a=10
 b=300
-diff=a-b
+c=100
+diff=a-b-c
 print(diff)
